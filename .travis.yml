@@ -17,6 +17,3 @@ deploy:
   bucket_path: "docker"
   on:
     branch: master
-
-
-    Docker-env.6aptiqczha.us-east-2.elasticbeanstalk.com
